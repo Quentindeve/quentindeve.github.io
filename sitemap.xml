@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://quentindeve.fr/</loc>
+        <loc>https://quentindeve.github.io/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/bts/</loc>
+        <loc>https://quentindeve.github.io/bts/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/myskills/</loc>
+        <loc>https://quentindeve.github.io/myskills/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/myskills/01-sysdev/</loc>
+        <loc>https://quentindeve.github.io/myskills/01-sysdev/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/myskills/02-frontdev/</loc>
+        <loc>https://quentindeve.github.io/myskills/02-frontdev/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/myskills/03-backdev/</loc>
+        <loc>https://quentindeve.github.io/myskills/03-backdev/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/projects/</loc>
+        <loc>https://quentindeve.github.io/projects/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/projects/lamp/</loc>
+        <loc>https://quentindeve.github.io/projects/lamp/</loc>
         <lastmod>2020-10-14</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/projects/pastebin-rs/</loc>
+        <loc>https://quentindeve.github.io/projects/pastebin-rs/</loc>
         <lastmod>2020-07-14</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/projects/pastup/</loc>
+        <loc>https://quentindeve.github.io/projects/pastup/</loc>
         <lastmod>2020-10-28</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/projects/simple-http-server/</loc>
+        <loc>https://quentindeve.github.io/projects/simple-http-server/</loc>
         <lastmod>2024-02-05</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/scholar/</loc>
+        <loc>https://quentindeve.github.io/scholar/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/scholar/ap-sql/</loc>
+        <loc>https://quentindeve.github.io/scholar/ap-sql/</loc>
         <lastmod>2023-03-07</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/scholar/mazegen/</loc>
+        <loc>https://quentindeve.github.io/scholar/mazegen/</loc>
         <lastmod>2021-01-01</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/scholar/mvc/</loc>
+        <loc>https://quentindeve.github.io/scholar/mvc/</loc>
         <lastmod>2023-10-25</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/scholar/portfolio/</loc>
+        <loc>https://quentindeve.github.io/scholar/portfolio/</loc>
         <lastmod>2024-02-13</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/scholar/tp-cours-symfony-b2/</loc>
+        <loc>https://quentindeve.github.io/scholar/tp-cours-symfony-b2/</loc>
         <lastmod>2023-12-02</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/scholar/tp-qr-pdf/</loc>
+        <loc>https://quentindeve.github.io/scholar/tp-qr-pdf/</loc>
         <lastmod>2023-12-05</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/skilltab/</loc>
+        <loc>https://quentindeve.github.io/skilltab/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/techwatch/</loc>
+        <loc>https://quentindeve.github.io/techwatch/</loc>
     </url>
     <url>
-        <loc>https://quentindeve.fr/techwatch/1-symfony-changelog/</loc>
+        <loc>https://quentindeve.github.io/techwatch/1-symfony-changelog/</loc>
         <lastmod>2023-11-29</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/techwatch/2-mutuelles-hack/</loc>
+        <loc>https://quentindeve.github.io/techwatch/2-mutuelles-hack/</loc>
         <lastmod>2024-02-04</lastmod>
     </url>
     <url>
-        <loc>https://quentindeve.fr/techwatch/3-meta-amende/</loc>
+        <loc>https://quentindeve.github.io/techwatch/3-meta-amende/</loc>
         <lastmod>2023-11-29</lastmod>
     </url>
 </urlset>

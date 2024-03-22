@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://quentindeve.fr/sitemap.xml
+Sitemap: https://quentindeve.github.io/sitemap.xml
